@@ -22,4 +22,4 @@ and even
 "LolSquid"
 
 
-Don't miss your chance and generate your own username. This is not a warning. This is epic.
+Don't miss your chance and generate your own username.
