@@ -7,7 +7,6 @@ on
 
 www.username-generator.tk
 
-epic
 
 you will be able to create names such as
 
@@ -22,4 +21,4 @@ and even
 "LolSquid"
 
 
-Don't miss your chance and generate your own username.
+Don't miss your chance and generate your own username now.
