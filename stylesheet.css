@@ -78,11 +78,40 @@ body {
 /* header */
 header {
   padding: 20px 10px;
+  display: flexbox;
 }
 .logo {
   width: 200px;
   text-decoration: none;
+  font-weight:  1000;
   color: white;
+  padding: 20px;
+  transition: all linear 0.1s;
+}
+.logo:hover {
+  color: green;
+  transition: none;
+}
+
+.headerLink {
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  transition: all linear 0.1s;
+}
+.headerLink:hover {
+  font-weight: bold;
+  transition: none;
+}
+.headerLink.green:hover {
+  background-color: green;
+}
+.headerLink.blue:hover {
+  background-color: lightblue;
+}
+.headerLink:focus {
+  color: lightgreen;
+  font-weight: bold;
 }
 
 /* background */
